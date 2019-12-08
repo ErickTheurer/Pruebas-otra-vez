@@ -1,12 +1,10 @@
 ---
 layout: post
-title: What's Jekyll?
+title: Estudios Secundarios.
 ---
 
-[Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
+Entre mis estudios secundarios:
 
-  > Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
+*Estudié un año (12 niveles) en el Centro Ecuatoriano Norteamericano (CEN), donde he podido desarrollar un nivel de ingles bastante avanzado, sin embargo, no pude culminar los cursos debido a la falta de tiempo por exámenes en el Cristóbal Colón.
 
-It's an immensely useful tool and one we encourage you to use here with Hyde.
-
-Find out more by [visiting the project on GitHub](https://github.com/mojombo/jekyll).
+![alt text](https://media.licdn.com/dms/image/C4E0BAQE-ryitentzAg/company-logo_200_200/0?e=2159024400&v=beta&t=byacJge5CVkOufqfsXQ_lmB1FeDKtNTXhSFBzaMxdDI)
