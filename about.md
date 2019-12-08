@@ -1,30 +1,41 @@
 ---
 layout: page
-title: About
+title: Lo Aprendido en 2 Meses.
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+ Aqui se mostrará brevemente lo que he aprendido en estos 2 meses de clases en la Universidad.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+### Álgebra Lineal. (Belkys Cañizales)
 
-There are currently two themes built on Poole:
+* Unidad 1: Sistema de Ecuaciones Lineales (SEL) 
+ Definición de SEL, Clasificación de un SEL según las soluciones, Consistencia y diferencia lineal de un SEL, Método de Eliminación, Método de Sustitución.
+ 
+*Unidad 2: Matrices y Determinantes.
+ Matrices, Clasificación de matrices, Matriz Transpuesta, Traza de una matriz, Operaciones con matrices, Matriz adjunta o Ecofactores, Determinantes, Regla de Laplace, Matriz inversa por ecofactores y Gauss-Jordan, Regla de Cramer, Factorización LU.
+ 
+### Algoritmo y Lógica de Programación. (Jenny Ortiz)
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+### Calculo Diferencial. (Óscar León)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+* Relación y Funciones, Clasificación de las funciones, Operaciones con funciones, Límites, Límites al infinito, Límites cuando tienden a 0, Límites trigonométricos, Derivada por 4 pasos.
 
-## Setup
+### Estructuras Discretas. (Leili Lopezdominguez)
 
-Some fun facts about the setup of this project include:
+*Unidad 1: Conceptos.
+Grandes porposiciones. Logica matemática, Conectores Lógicos, Proposiciones simples y moleculares, Álgebra de Proposiciones.
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+*Unidad 2: Conjuntos.
+Definición, Cardinalidad, Diagramas de Venn, Conjunto potencia, Operaciones de Conjuntos, Álgebra de conjuntos, Conjunto referencial, Conjunto complemento, Mapas de Karnaug, Expresiones Booleanas, Circuitos Lógicos.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+*Unidad 3: Técnicas de Conteo.
+Multiplicidad, Permutaciones, Combinaciones, 
 
-Thanks for reading!
+### Introducción Al Desarrollo de Software.
+
+* Unidad 1: Introducción a Ingenieria de Software
+
+### Lenguaje y Comunicación.
+
+Análisis Crítico: Desarrollo y ejercicios, Uso de la C,S y Z. Uso de la H, Uso de la K, Normas de puntuación, Como elaborar la introducción de una tesis, Como elaborar un desarrollo de una tesis, Paráfrasis.
