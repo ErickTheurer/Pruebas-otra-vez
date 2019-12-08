@@ -12,7 +12,7 @@ title: Lo Aprendido en 2 Meses.
 * Unidad 1: Sistema de Ecuaciones Lineales (SEL) 
  Definición de SEL, Clasificación de un SEL según las soluciones, Consistencia y diferencia lineal de un SEL, Método de Eliminación, Método de Sustitución.
  
-*Unidad 2: Matrices y Determinantes.
+* Unidad 2: Matrices y Determinantes.
  Matrices, Clasificación de matrices, Matriz Transpuesta, Traza de una matriz, Operaciones con matrices, Matriz adjunta o Ecofactores, Determinantes, Regla de Laplace, Matriz inversa por ecofactores y Gauss-Jordan, Regla de Cramer, Factorización LU.
  
 ### Algoritmo y Lógica de Programación. (Jenny Ortiz)
@@ -23,10 +23,10 @@ title: Lo Aprendido en 2 Meses.
 
 ### Estructuras Discretas. (Leili Lopezdominguez)
 
-*Unidad 1: Conceptos.
+* Unidad 1: Conceptos.
 Grandes porposiciones. Logica matemática, Conectores Lógicos, Proposiciones simples y moleculares, Álgebra de Proposiciones.
 
-*Unidad 2: Conjuntos.
+* Unidad 2: Conjuntos.
 Definición, Cardinalidad, Diagramas de Venn, Conjunto potencia, Operaciones de Conjuntos, Álgebra de conjuntos, Conjunto referencial, Conjunto complemento, Mapas de Karnaug, Expresiones Booleanas, Circuitos Lógicos.
 
 *Unidad 3: Técnicas de Conteo.
